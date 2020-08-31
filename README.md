@@ -9,6 +9,8 @@ Files needed for this exercise:
 
 - ex6.mlx - MATLAB Live Script that steps you through the exercise 
 
+- ex6.mlx - Guide of this exercise
+
 Part 1 
 
 - ex6data1.mat - Example Dataset 1 
